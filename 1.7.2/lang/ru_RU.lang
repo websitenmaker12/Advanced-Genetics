@@ -22,7 +22,7 @@ tile.healCrystalBlock.name=Лечебный кристалл
 
 item.scraper.name=Скребок
 item.skinScales.name=Частицы кожи
-item.cell.name=Ячейка
+item.cell.name=Клетка
 item.organicDrop.name=Органические останки
 item.helix.name=Спираль
 item.gene.name=Ген
@@ -37,14 +37,14 @@ item.overclocker.name=Оверклокер
 item.autoOutputUpgrade.name=Автовыгрузка (обновление)
 item.helixInsulated.name=Изолированная спираль
 item.advancedDictionary.name=Продвинутый ДНК словарь
-item.cellInsulated.name=Изолированная ячейка
+item.cellInsulated.name=Изолированная клетка
 item.syringeAntidote.name=Антидот
 item.geneticBow.name=Лук генетика
 item.healCrystalItem.name=Лечебный кристал
-item.invalidCell.name=Испорченная ячейка
+item.invalidCell.name=Неправильная клетка
 
 itemInfo.adminDisabled=Отключено администратором.
-itemInfo.unuseableCell=Неиспользуемая ячейка
+itemInfo.unuseableCell=Неиспользуемая клетка
 itemInfo.breedingTag=Выведение
 itemInfo.completedTag=Завершено
 itemInfo.noneTag=Пусто
